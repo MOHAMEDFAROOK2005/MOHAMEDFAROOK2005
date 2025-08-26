@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOHAMED FAROOK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedfarook2005" alt="mohamedfarook2005" /></a> </p>
-
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
 
 - 📫 How to reach me **farhanamdu1@gmail.com**
